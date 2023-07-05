@@ -1,1 +1,1 @@
-# Steagonography-using-MATLAB
+In this project we represents a technique for secret communication using steganography. A system is designed that will allow an average user to securely transfer text messages by hiding them in a digital image file using the local characteristics within an image. Here, we use cryptography along with steganography to add another level of security. The code, report and presentation is shared for more clarity.
